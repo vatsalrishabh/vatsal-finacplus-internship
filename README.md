@@ -6,7 +6,7 @@ An assignment exploring **Webpack Module Federation** by building a pair of micr
 • **main-app** – the shell / host that dynamically consumes _music-library_ at runtime.
 
 ----
-This was my very first encounter with Module Federation. I spent roughly **5–6 hours** reading docs, breaking Webpack, fixing version mismatches and _finally_ watching the first remote component render inside the host – a truly satisfying moment! 🎉
+This was my very first encounter with Module Federation. I webt through reading docs, breaking Webpack, fixing version mismatches and _finally_ watching the first remote component render inside the host – a truly satisfying moment! 🎉
 ------
 
 first i sketch the app 
